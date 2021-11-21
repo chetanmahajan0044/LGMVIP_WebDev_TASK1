@@ -1,2 +1,2 @@
-# LGMVIP_WebDev_TASK1
-I Created a single page website using HTML , CSS, &amp; JAVA
+# LGMVIP-WebDev_Task1
+Developed using HTML, CSS and JavaScript.
